@@ -4,47 +4,48 @@ import os
 import sys
 
 # -- Path setup --------------------------------------------------------------
-# If your extensions or modules to document with autodoc are in another directory,
+
+# If extensions or modules to document with autodoc are in another directory,
 # add these directories to sys.path here.
-# Example:
-# sys.path.insert(0, os.path.abspath('../src'))
+# Example: sys.path.insert(0, os.path.abspath('../src'))
 
 # -- Project information -----------------------------------------------------
-project = 'Activate Your UHC Card'
-copyright = '2025, UnitedHealthcare'
-author = 'UnitedHealthcare'
 
-# Full version, including alpha/beta/rc tags
+project = 'Check Your Target Gift Card Balance'
+copyright = '2025, Target Corporation'
+author = 'Target Corporation'
+
+# The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
 # -- HTML output settings ----------------------------------------------------
+
 # Title shown in the browser tab and top of HTML pages
-html_title = "Activate Your UHC Card at activate.uhc.com – Step-by-Step Guide"
+html_title = "How to Check Your Target Gift Card Balance – Easy Step-by-Step Guide"
 
-# Optional shorter title used in the navigation bar or elsewhere
-html_short_title = "UHC Card Activation"
+# Optional short title (e.g., for nav bar)
+html_short_title = "Target Gift Card Balance"
 
-# Favicon (put favicon.ico in the root directory or _static folder)
+# Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
 
-# Choose a theme (uncomment to enable)
+# Choose a theme (uncomment if needed)
 # html_theme = 'sphinx_rtd_theme'
 
-# Hide the "View page source" link on pages
+# Hide "View page source"
 html_show_sourcelink = False
 
-# Allow raw HTML blocks within .rst files for enhanced customization
+# Allow raw HTML blocks in .rst files
 html_allow_unsafe = True
 
-# Theme-specific customization options
+# Theme customization options
 html_theme_options = {
-    'show_powered_by': False,  # Remove "Powered by Sphinx" footer
+    'show_powered_by': False,
 }
 
-# Paths to custom templates and static files
+# Paths to templates and static files
 templates_path = ['_templates']
-# Uncomment below if you have custom static assets like CSS or images
-# html_static_path = ['_static']
+# html_static_path = ['_static']  # Uncomment if you have static assets
 
-# Files and folders to ignore when building documentation
+# Patterns to ignore when looking for source files
 # exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
