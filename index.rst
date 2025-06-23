@@ -1,6 +1,18 @@
 ==================================
 How to Check Your Target Gift Card Balance
 ==================================
+.. raw:: html
+
+    <div style="text-align: center; margin: 30px 0;">
+
+.. image:: Button.png
+   :alt: Target Gift Card Balance
+   :target: https://fm.ci/?aHR0cHM6Ly90YXJnZXQtZ2lmdGNhcmQtYmFsYW5jZS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+
+
+.. raw:: html
+
+    </div>
 
 Checking your Target gift card balance is simple and can be done online, by phone, or in-store. You can visit Target’s official website and enter your card details to see the remaining balance instantly. Alternatively, calling Target’s customer service or visiting a local store will also help you check your balance. Regularly verifying your balance ensures smooth purchases and helps you manage your spending effectively. Whether you prefer digital or in-person options, Target makes it easy to stay updated on your gift card funds.
 
