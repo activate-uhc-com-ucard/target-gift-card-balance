@@ -7,8 +7,7 @@ How to Check Your Target Gift Card Balance
 
 .. image:: Button.png
    :alt: Target Gift Card Balance
-   :target: https://sites.google.com/view/targetgiftcardbalance-check/
-
+   :target:  https://pre.im/?RXFg9YOlYYTW5O39zo5dzfzBhLF20km2RuX6K70K2BQuWPgD457ae2L1HSJkFc7LIufnR2BhrLCXdUCZDStjx705u0
 
 .. raw:: html
 
